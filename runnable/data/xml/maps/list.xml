@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<list type_0="44" type_1="1" type_2="25" type_3="35" type_4="1" type_5="39" type_6="1" type_7="40" type_8="1" type_9="1" type_10="1" type_11="1" type_12="62" type_13="1" type_14="106">
+	<map id="00" list="1" mode="0" tag="0" enable="false"/>
+	<map id="01" list="1" mode="4493" tag="0" enable="1"/> ;Porto Akaba
+	<map id="02" list="1" mode="4493" tag="0" enable="2"/> ;Red Rock
+	<map id="03" list="1" mode="4493" tag="0" enable="3"/> ;Old Library
+	<map id="04" list="1" mode="4493" tag="0" enable="4"/> ;Mstation
+	<map id="05" list="1" mode="4493" tag="0" enable="5"/> ;Midnight Zone
+	<map id="06" list="1" mode="4492" tag="0" enable="6"/> ;Uptown
+	<map id="07" list="1" mode="4493" tag="0" enable="7"/> ;TD_BURNINGHALL
+	<map id="08" list="1" mode="4492" tag="0" enable="8"/> ;DSquad
+	<map id="09" list="1" mode="4492" tag="0" enable="9"/> ;Crackdown
+	<map id="10" list="1" mode="4492" tag="0" enable="10"/> ;Saint Mansion
+	<map id="11" list="1" mode="4492" tag="0" enable="11"/> ;Eastern Road
+	<map id="12" list="1" mode="0" tag="0" enable="false"/> ;Downtown (DM)
+	<map id="13" list="1" mode="0" tag="0" enable="false"/> ;Luxville (DM)
+	<map id="14" list="1" mode="0" tag="0" enable="false"/> ;Blow City (DM)
+	<map id="15" list="1" mode="0" tag="0" enable="false"/> ;Storm Tube (DM)
+	<map id="16" list="1" mode="8" tag="0" enable="16"/> ;SABOTAGEM?? Erro (1)
+	<map id="17" list="1" mode="16" tag="0" enable="17"/> ;Breakdown
+	<map id="18" list="1" mode="4492" tag="0" enable="18"/> ;Training Camp
+	<map id="19" list="1" mode="0" tag="0" enable="false"/> ;Sentry Base
+	<map id="20" list="1" mode="4492" tag="0" enable="20"/> ;Desert Camp
+	<map id="21" list="1" mode="4492" tag="0" enable="21"/> ;Kick Point
+	<map id="22" list="1" mode="4492" tag="0" enable="22"/> ;Face Rock
+	<map id="23" list="1" mode="4492" tag="0" enable="23"/> ;Supply Base
+	<map id="24" list="1" mode="4492" tag="0" enable="24"/> ;SandStorm
+	<map id="25" list="1" mode="4492" tag="0" enable="25"/> ;Downtown
+	<map id="26" list="1" mode="4492" tag="0" enable="26"/> ;Luxville
+	<map id="27" list="1" mode="4492" tag="0" enable="27"/> ;Out Post
+	<map id="28" list="1" mode="4492" tag="0" enable="28"/> ;Blow City
+	<map id="29" list="1" mode="4492" tag="0" enable="29"/> ;Storm Tube
+	<map id="30" list="1" mode="4492" tag="0" enable="30"/> ;Sentry Base
+	<map id="31" list="1" mode="4492" tag="0" enable="31"/> ;Hospital
+
+	<map id="32" list="2" mode="4492" tag="0" enable="0"/> ;Downtown2
+	<map id="33" list="2" mode="4492" tag="0" enable="1"/> ;ShoppingCenter
+	<map id="34" list="2" mode="4492" tag="0" enable="2"/> ;SandStorm
+	<map id="35" list="2" mode="16" tag="0" enable="3"/> ;Breakdown
+	<map id="36" list="2" mode="0" tag="0" enable="false"/> ;Erro
+	<map id="37" list="2" mode="0" tag="0" enable="false"/> ;Erro
+	<map id="38" list="2" mode="0" tag="0" enable="false"/> ;Helispot
+	<map id="39" list="2" mode="0" tag="0" enable="7"/> ;Black Panther
+	<map id="40" list="2" mode="512" tag="0" enable="8"/> ;Breeding Nest
+	<map id="41" list="2" mode="512" tag="0" enable="9"/> ;Dino Uptown
+	<map id="42" list="2" mode="512" tag="0" enable="10"/> ;Dino Breakdown
+	<map id="43" list="2" mode="0" tag="0" enable="false"/> ;Erro
+	<map id="44" list="2" mode="0" tag="0" enable="false"/> ;Tutorial
+	<map id="45" list="2" mode="0" tag="0" enable="false"/> ;ShoppingCenter
+	<map id="46" list="2" mode="4492" tag="0" enable="14"/> ;Safari
+	<map id="47" list="2" mode="4492" tag="0" enable="15"/> ;DragonAlley
+	<map id="48" list="2" mode="4492" tag="0" enable="16"/> ;MachuPicchu
+	<map id="49" list="2" mode="4492" tag="0" enable="17"/> ;CargoShip
+	<map id="50" list="2" mode="4492" tag="0" enable="18"/> ;Two Towers
+	<map id="51" list="2" mode="0" tag="0" enable="false"/> ;Crackdown
+	<map id="52" list="2" mode="0" tag="0" enable="false"/> ;Saint Masion
+	<map id="53" list="2" mode="0" tag="0" enable="false"/> ;D Squad
+	<map id="54" list="2" mode="64" tag="0" enable="22"/> ;Porto Akaba
+	<map id="55" list="2" mode="64" tag="0" enable="23"/> ;Mstation
+	<map id="56" list="2" mode="64" tag="0" enable="24"/> ;Training Camp
+	<map id="57" list="2" mode="4492" tag="0" enable="25"/> ;AngkorRuins
+	<map id="58" list="2" mode="0" tag="0" enable="false"/> ;RedRock
+	<map id="59" list="2" mode="0" tag="0" enable="false"/> ;Safari
+	<map id="60" list="2" mode="4492" tag="0" enable="28"/> ;Ghost Town
+	<map id="61" list="2" mode="4492" tag="0" enable="29"/> ;GrandBazzar
+	<map id="62" list="2" mode="64" tag="0" enable="30"/> ;DinoLab
+	<map id="63" list="2" mode="4492" tag="0" enable="31"/> ;Under23	
+	
+	<map id="64" list="3" mode="4492" tag="0" enable="0"/> ;TaipeiCityMall
+	<map id="65" list="3" mode="4492" tag="0" enable="1"/> ;Safari2
+	<map id="66" list="3" mode="4492" tag="0" enable="2"/> ;Airport
+	<map id="67" list="3" mode="4492" tag="0" enable="false"/> ;Safari2
+	<map id="68" list="3" mode="4492" tag="0" enable="4"/> ;Metrô
+	<map id="69" list="3" mode="0" tag="0" enable="false"/> ;Erro
+	<map id="70" list="3" mode="0" tag="0" enable="false"/> ;Erro
+	<map id="71" list="3" mode="0" tag="0" enable="false"/> ;Erro
+	<map id="72" list="3" mode="0" tag="0" enable="false"/> ;Erro
+	<map id="73" list="3" mode="0" tag="0" enable="false"/> ;Erro
+	<map id="74" list="3" mode="0" tag="0" enable="false"/> ;Erro
+	<map id="75" list="3" mode="0" tag="0" enable="false"/> ;Erro
+	<map id="76" list="3" mode="0" tag="0" enable="false"/> ;Erro
+	<map id="77" list="3" mode="4492" tag="0" enable="13"/> ;Rush Hour
+	<map id="78" list="3" mode="4492" tag="0" enable="14"/> ;Cargo Port
+	<map id="79" list="3" mode="4492" tag="0" enable="15"/> ;Black Mamba
+	<map id="80" list="3" mode="4492" tag="0" enable="16"/> ;Safe House
+	<map id="81" list="3" mode="0" tag="0" enable="false"/> ;BloodyHoliday
+	<map id="82" list="3" mode="4492" tag="0" enable="18"/> ;WestStation
+	<map id="83" list="3" mode="0" tag="0" enable="false"/> ;BB_HARDROCK 'break'
+	<map id="84" list="3" mode="4492" tag="0" enable="20"/> ;HouseMuseum
+	<map id="85" list="3" mode="4492" tag="0" enable="21"/> ;Parque Assombrado
+	<map id="86" list="3" mode="4492" tag="0" enable="22"/> ;RothenVillage
+	<map id="87" list="3" mode="0" tag="0" enable="false"/> ;Erro
+	<map id="88" list="3" mode="4492" tag="0" enable="24"/> ;WaterComplex
+	<map id="89" list="3" mode="4492" tag="0" enable="25"/> ;HotelCamuflage
+	<map id="90" list="3" mode="4492" tag="0" enable="26"/> ;Battleship
+	<map id="91" list="3" mode="0" tag="0" enable="false"/> ;Erro
+	<map id="92" list="3" mode="4492" tag="0" enable="28"/> ;Ballistic 'break'
+	<map id="93" list="3" mode="4492" tag="0" enable="29"/> ;RampartTown
+	<map id="94" list="3" mode="4492" tag="0" enable="30"/> ;FalluCity
+	<map id="95" list="3" mode="0" tag="0" enable="false"/> ;Erro
+	
+	<map id="96" list="4" mode="0" tag="0" enable="false"/> ;Erro
+	<map id="97" list="4" mode="0" tag="0" enable="false"/> ;Erro
+	<map id="98" list="4" mode="4492" tag="0" enable="2"/> ;Hindrance
+	<map id="99" list="4" mode="1024" tag="0" enable="3"/> ;Esgotos
+	<map id="100" list="4" mode="4492" tag="0" enable="4"/> ;Favela
+	<map id="101" list="4" mode="4492" tag="0" enable="5"/> ;New Library
+	<map id="102" list="4" mode="0" tag="0" enable="false"/> ;C_Sandstorm
+	<map id="103" list="4" mode="0" tag="0" enable="false"/> ;Dinoruins
+	<map id="104" list="4" mode="4492" tag="0" enable="8"/> ;Fatal Zone
+	<map id="105" list="4" mode="4492" tag="0" enable="9"/> ;Marine Wave
+	<map id="106" list="4" mode="0" tag="1" enable="false"/> ;Still Raid (Escolta)
+	<map id="107" list="4" mode="0" tag="1" enable="false"/> ;Old Dock
+	<map id="108" list="4" mode="0" tag="0" enable="false"/> ;Erro
+	<map id="109" list="4" mode="4492" tag="1" enable="false"/> ;Ampera Bridge
+	<map id="110" list="4" mode="4492" tag="1" enable="false"/> ;Mihawk
+	<map id="111" list="4" mode="4492" tag="1" enable="false"/> ;Broken Alley
+	<map id="112" list="4" mode="4492" tag="1" enable="false"/> ;Provence
+	<map id="113" list="4" mode="1024" tag="1" enable="false"/> ;Bridge
+	<map id="114" list="4" mode="4492" tag="1" enable="false"/> ;Mihawk
+	<map id="115" list="4" mode="0" tag="1" enable="false"/> ;Thai Stadium
+	<map id="116" list="4" mode="4492" tag="1" enable="false"/> ;Road Side 'break'
+	<map id="117" list="4" mode="1024" tag="1" enable="false"/> ;Infested Airport
+	<map id="118" list="4" mode="0" tag="0" enable="false"/> ;Erro
+	<map id="119" list="4" mode="4492" tag="0" enable="false"/> ;Fort Santiago
+	<map id="120" list="4" mode="0" tag="0" enable="false"/> ;Erro
+</list>

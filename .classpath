@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="source-core"/>
+	<classpathentry kind="src" path="source-game"/>
+	<classpathentry kind="src" path="source-test"/>
+	<classpathentry kind="src" path="source-udp"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="E:/Arquivos de Programas/Jogos/PC/Point Blank/SOURCES/Projects/Java/runnable/jar/activation-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Arquivos de Programas/Jogos/PC/Point Blank/SOURCES/Projects/Java/runnable/jar/commons-dbcp-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Arquivos de Programas/Jogos/PC/Point Blank/SOURCES/Projects/Java/runnable/jar/commons-email-1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Arquivos de Programas/Jogos/PC/Point Blank/SOURCES/Projects/Java/runnable/jar/commons-io-2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Arquivos de Programas/Jogos/PC/Point Blank/SOURCES/Projects/Java/runnable/jar/commons-pool-1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Arquivos de Programas/Jogos/PC/Point Blank/SOURCES/Projects/Java/runnable/jar/enigma-all_en_US.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Arquivos de Programas/Jogos/PC/Point Blank/SOURCES/Projects/Java/runnable/jar/enigma-console.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Arquivos de Programas/Jogos/PC/Point Blank/SOURCES/Projects/Java/runnable/jar/enigma-i18n.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Arquivos de Programas/Jogos/PC/Point Blank/SOURCES/Projects/Java/runnable/jar/enigma-shell.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Arquivos de Programas/Jogos/PC/Point Blank/SOURCES/Projects/Java/runnable/jar/izpack-panel-5.0.0-beta11.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Arquivos de Programas/Jogos/PC/Point Blank/SOURCES/Projects/Java/runnable/jar/jacob.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Arquivos de Programas/Jogos/PC/Point Blank/SOURCES/Projects/Java/runnable/jar/jconsole.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Arquivos de Programas/Jogos/PC/Point Blank/SOURCES/Projects/Java/runnable/jar/jna-platform.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Arquivos de Programas/Jogos/PC/Point Blank/SOURCES/Projects/Java/runnable/jar/mail.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Arquivos de Programas/Jogos/PC/Point Blank/SOURCES/Projects/Java/runnable/jar/netty-all-4.0.33.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Arquivos de Programas/Jogos/PC/Point Blank/SOURCES/Projects/Java/runnable/jar/postgresql-42.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Arquivos de Programas/Jogos/PC/Point Blank/SOURCES/Projects/Java/runnable/jar/tools.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

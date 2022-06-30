@@ -1,0 +1,21 @@
+package core.enums;
+
+/**
+ * 
+ * @author Henrique
+ *
+ */
+
+public enum ClanUnit
+{
+	CLAN_UNIT_SQUARD,
+	CLAN_UNIT_PLATOON,
+	CLAN_UNIT_COMPANY,
+	CLAN_UNIT_BATTALION,
+	CLAN_UNIT_REGIMENT,
+	CLAN_UNIT_BRIGADE,
+	CLAN_UNIT_DIVISION,
+	CLAN_UNIT_CORPS,
+	CLAN_UNIT_TOP,
+	CLAN_UNIT_MAX;
+}

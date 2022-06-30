@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list active="true" max_players="5" channel_players="5" type="S_CHANNEL_TYPE_ALL" ip="25.73.139.63" port="10001" pass="">
+	<channel id="0" type="CHANNEL_TYPE_BEGIN2" announce="Point Blank" max_rooms="2" only_acess="false" bonusExp="0.0" bonusGold="0.0" bonusCash="0.0"/>
+	<channel id="1" type="CHANNEL_TYPE_BEGIN1" announce="Point Blank" max_rooms="2" only_acess="false" bonusExp="0.0" bonusGold="0.0" bonusCash="0.0"/>
+	<channel id="2" type="CHANNEL_TYPE_NORMAL" announce="Point Blank" max_rooms="2" only_acess="false" bonusExp="0.0" bonusGold="0.0" bonusCash="0.0"/>
+	<channel id="3" type="CHANNEL_TYPE_NORMAL" announce="Point Blank" max_rooms="2" only_acess="false" bonusExp="0.0" bonusGold="0.0" bonusCash="0.0"/>
+	<channel id="4" type="CHANNEL_TYPE_NORMAL" announce="Point Blank" max_rooms="2" only_acess="false" bonusExp="0.0" bonusGold="0.0" bonusCash="0.0"/>
+	<channel id="5" type="CHANNEL_TYPE_NORMAL" announce="Point Blank" max_rooms="2" only_acess="false" bonusExp="0.0" bonusGold="0.0" bonusCash="0.0"/>
+	<channel id="6" type="CHANNEL_TYPE_NORMAL" announce="Point Blank" max_rooms="2" only_acess="false" bonusExp="0.0" bonusGold="0.0" bonusCash="0.0"/>
+	<channel id="7" type="CHANNEL_TYPE_NORMAL" announce="Point Blank" max_rooms="2" only_acess="false" bonusExp="0.0" bonusGold="0.0" bonusCash="0.0"/>
+	<channel id="8" type="CHANNEL_TYPE_NORMAL" announce="Point Blank" max_rooms="2" only_acess="false" bonusExp="0.0" bonusGold="0.0" bonusCash="0.0"/>
+	<channel id="9" type="CHANNEL_TYPE_CLAN"   announce="Point Blank" max_rooms="2" only_acess="false" bonusExp="0.0" bonusGold="0.0" bonusCash="0.0" max_cf="0"/>
+</list>

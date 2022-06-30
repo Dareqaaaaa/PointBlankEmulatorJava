@@ -1,0 +1,14 @@
+package core.enums;
+
+/**
+ * 
+ * @author Henrique
+ *
+ */
+
+public enum KickType
+{
+	O_JOGO_SERA_FINALIZADO_POR_SOLICITAÇÃO_DO_SERVIDOR,
+	O_JOGO_SERA_FINALIZADO_POR_CONEXÃO_SIMULTÃNEA,
+	O_JOGO_SERA_FINALIZADO_EM_INSTANTES_GM;
+}
